@@ -1,2 +1,1 @@
-# cdm-spring-2018.github.io
-web-based materials
+# Web-based materials for Composing Digital Media, Spring 2018

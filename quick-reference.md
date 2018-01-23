@@ -48,7 +48,7 @@
 # Create your main menu
 
 1. Edit your ```index.html``` file (instructions above)
-2. Add this block of code inside the ```<nav>``` tag 
+2. Replace the text "my menu" with this block of code inside the ```<nav>``` tag 
 
 ```html
 <ul class="main-menu">

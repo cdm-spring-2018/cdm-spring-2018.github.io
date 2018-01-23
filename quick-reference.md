@@ -12,7 +12,7 @@
 2. In the "name your file" box, type "index.html"
 3. In the "edit new file" field below the title, paste the following base markup with your "about me" paragraph
 
-```html
+```
   <!DOCTYPE html>
   <html>
     <head>
@@ -39,7 +39,7 @@
 3. Add a test rule to your css file, perhaps something like ``` h1 { color: lightgray; } ```
 4. Navigate back to your repository and click the "index.html" file 
 5. Locate and click the pencil incon, which will bring to an editor view
-6. Paste the following line of code just before the ```html </head> ``` tag
+6. Paste the following line of code just before the ```</head> ``` tag
 
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">

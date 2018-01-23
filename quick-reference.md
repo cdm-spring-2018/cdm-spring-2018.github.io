@@ -71,6 +71,9 @@ ul.main-menu {
     margin: 0;
     padding: 0;
 }
+ul.main-menu>li {
+    display: inline;
+}
 ```
 5. Click the green commit button to save changes
 

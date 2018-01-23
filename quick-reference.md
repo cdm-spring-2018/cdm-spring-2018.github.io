@@ -46,3 +46,26 @@
 ```
 
 # Create your main menu
+
+1. Edit your ```index.html``` file (instructions above)
+2. Add this block of code inside the ```<nav>``` tag 
+
+```html
+<ul class="main-menu">
+  <li>Link 1</li>
+  <li>Link 2</li>
+  <li>Link 3</li>
+  <li>Link 4</li>
+  <li>Link 5</li>
+</ul>
+```
+3. Edit your ```style.css``` file the same way you would edit ```index.html``` (instructions above)
+4. Add a rule for ```<ul>``` blocks with the class ```main-menu ```
+
+```css
+
+ul.main-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

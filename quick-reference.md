@@ -94,6 +94,6 @@ This process has now created a folder called "portfolio" and an index.html file 
 2. Inside of your first ```<li>``` tag, change "link 1" to the following:
 
 ```html
-<a href="portfolio">Final Portfolio</a>
+<a href="/portfolio/">Final Portfolio</a>
 ```
 3. Click the green commit button to save changes

@@ -41,23 +41,25 @@
 <ol>
 <li>Ordered List item</li>
 </ol>
+```
 
 # HTML5
+
 ```html
 
-    &lt;article&#62;
+<article>
 
-    &lt;figcaption&#62;
+    <figcaption>
 
-    &lt;figure&#62;
+    <figure>
 
-    &lt;footer&#62;
+    <footer>
 
-    &lt;header&#62;
+    <header>
 
-    &lt;main&#62;
+    <main>
 
-    &lt;nav&#62;
+    <nav>
 
-    &lt;summary&#62;
+    <summary>
 ```

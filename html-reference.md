@@ -46,20 +46,12 @@
 # HTML5
 
 ```html
-
-<article>
-
-    <figcaption>
-
-    <figure>
-
-    <footer>
-
-    <header>
-
-    <main>
-
-    <nav>
-
-    <summary>
+<article></article>
+<figcaption></figcaption>
+<figure></figure>
+<footer></footer>
+<header></header>
+<main></main>
+<nav></nav>
+<summary></summary>
 ```

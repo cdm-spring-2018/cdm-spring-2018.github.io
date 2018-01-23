@@ -36,7 +36,7 @@
 
 1. Navigate to your repository and click "create new file"
 2. In the "name your file" box, type "style.css"
-3. Add a test rule to your css file, perhaps something like ``` h1 { color: lightgray; }
+3. Add a test rule to your css file, perhaps something like ``` h1 { color: lightgray; } ```
 4. Navigate back to your repository and click the "index.html" file 
 5. Locate and click the pencil incon, which will bring to an editor view
 6. Paste the following line of code just before the ```html </head> ``` tag

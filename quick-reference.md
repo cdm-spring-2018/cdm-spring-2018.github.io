@@ -31,6 +31,7 @@
     </body>
   </html>
 ```
+4. Click the green commit button to save changes
 
 # Add a style.css file
 
@@ -38,12 +39,13 @@
 2. In the "name your file" box, type "style.css"
 3. Add a test rule to your css file, perhaps something like ``` h1 { color: lightgray; } ```
 4. Navigate back to your repository and click the "index.html" file 
-5. Locate and click the pencil incon, which will bring to an editor view
+5. Locate and click the pencil icon, which will bring to an editor view
 6. Paste the following line of code just before the ```</head> ``` tag
 
 ```html
 <link rel="stylesheet" type="text/css" href="style.css">
 ```
+7. Click the green commit button to save changes
 
 # Create your main menu
 
@@ -69,3 +71,26 @@ ul.main-menu {
     margin: 0;
     padding: 0;
 }
+```
+5. Click the green commit button to save changes
+
+# Add Directories
+
+Note: These steps create a link and a location for your final portfolio
+
+1. Navigate to your repository and click "create new file"
+2. In the "name your file" box, type "portfolio/index.html"
+3. In the "edit new file" field below the title, paste the markup from your index.html file, editing things like the page title where appropriate
+4. Click the green commit button to save changes
+
+This process has now created a folder called "portfolio" and an index.html file in that folder. Repeat these steps to add other directories.
+
+# Links to the Menu/Site
+
+1. Edit your ```index.html``` file (instructions above)
+2. Inside of your first ```<li>``` tag, change "link 1" to the following:
+
+```html
+<a href="portfolio">Final Portfolio</a>
+```
+3. Click the green commit button to save changes

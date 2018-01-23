@@ -12,7 +12,7 @@
 2. In the "name your file" box, type "index.html"
 3. In the "edit new file" field below the title, paste the following base markup with your "about me" paragraph
 
-<pre>
+```html
   <!DOCTYPE html>
   <html>
     <head>
@@ -30,7 +30,7 @@
       </footer>
     </body>
   </html>
-</pre>
+```
 
 # Add a style.css file
 
